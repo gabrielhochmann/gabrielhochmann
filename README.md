@@ -1,60 +1,82 @@
-# Hi there, I'm Gabriel 👋🏻
+<div align="center">
+  
+  # Hi there, I'm Gabriel 👋🏻
 
-<img align="right" width="140" src="SEU_GIF_AQUI.gif" />
+  <img src="assets/avatar.gif" width="200" style="border-radius: 50%; border: 4px solid #F4D03F; box-shadow: 0 0 20px #F4D03F;" alt="Gabriel Hochmann Avatar Animado" />
+  
+  <br />
+  <br />
 
-I'm a Computer Science student focused on improving my life through technology. <br>
-I'm learning by building, breaking, and fixing things.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F4D03F&center=true&vCenter=true&width=500&lines=Gabriel+Hochmann;CS+Student+@+UNIOESTE;Software+Dev+Intern+@+Itaipu;Linux+Enthusiast+%26+Game+Dev" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/gabrielhochmann" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:contact@gabrielhochmann" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/gabrielhochmann" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://discord.gg/G9GPg5SA75" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
+### 👨‍🚀 Sobre Mim
 
----
+Olá! Sou o **Gabriel**, apaixonado por transformar café em código e ideias em realidade. Atualmente estou mergulhado no mundo da **Ciência da Computação** e aplicando conhecimentos reais no setor de energia.
 
-## What I'm currently working on
+- 🎓 **Estudante:** Ciência da Computação na **UNIOESTE**.
+- 💼 **Trabalho:** Estagiário de Desenvolvimento de Software na **Itaipu Binacional**.
+- 🔭 **Foco Atual:** Engenharia de Software, Cloud, Dados e Unity.
+- 🐧 **OS:** Usuário de Linux (Arch/Fedora) – *I use Arch btw*.
+- ⚡ **Curiosidade:** Desenvolvendo tours virtuais e explorando arquitetura de software.
 
-- Strengthening my programming fundamentals
-- Learning by fixing mistakes and refactoring code
-- Becoming more disciplined with Git and version control
-- Understanding how systems work instad of just copying solutions
+<br />
 
----
+### 🚀 Tech Stack
 
-## Languages & tools I use
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) # Atualizar
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,python,unity,linux,docker,git,postgres,mysql,blender&theme=dark" />
+  </a>
+</div>
 
-<div>
+<br />
+
+### 📊 GitHub Stats
+
+<div align="center">
   <a href="https://github.com/gabrielhochmannalves" target="_blank" rel="noopener noreferrer">
     <img height="180em"
-      src="https://github-readme-stats-gabrielhochmann.vercel.app/api?username=gabrielhochmannalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em"
-      src="https://github-readme-stats-gabrielhochmann.vercel.app/api/top-langs/?username=gabrielhochmannalves&layout=compact&langs_count=16&theme=dracula" />
+      src="https://github-readme-stats-gabrielhochmann.vercel.app/api?username=gabrielhochmannalves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
-</div>
   
-<div style="display: inline_block">
-    <br>
-      <img align="center" alt="Gabriel-HTML" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Gabriel-CSS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Gabriel-Python" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://github.com/gabrielhochmannalves" target="_blank" rel="noopener noreferrer">
+    <img height="180em"
+      src="https://github-readme-stats-gabrielhochmann.vercel.app/api/top-langs/?username=gabrielhochmannalves&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
-<div>
-  <a href="https://instagram.com/gabrielhochmann" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-    
-  <a href="https://discord.gg/G9GPg5SA75" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a>
-    
-  <a href = "mailto:contact@gabrielhochmann.com" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-    
-  <a href="https://www.linkedin.com/in/gabrielhochmann/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+<br />
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/gabrielhochmannalves/gabrielhochmannalves/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+---
+  
+<div align="center">
+  <p><i>"Stay hungry, stay foolish."</i></p>
+  <p>Feito com 💙 por Gabriel Hochmann</p>
+  <img src="https://komarev.com/ghpvc/?username=gabrielhochmannalves&label=Profile%20Views&color=F4D03F&style=flat" alt="Profile Views" />
+</div>
+
+---
