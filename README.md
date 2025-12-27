@@ -72,16 +72,6 @@ Olá! Sou o **Gabriel**, apaixonado por transformar café em código e ideias em
 </div>
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
----
   
 <div align="center">
   <p><i>"Stay hungry, stay foolish."</i></p>
