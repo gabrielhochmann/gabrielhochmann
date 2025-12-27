@@ -15,13 +15,13 @@
     <a href="https://linkedin.com/in/gabrielhochmann" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:contact@gabrielhochmann" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:contact@gabrielhochmann.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://instagram.com/gabrielhochmann" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://discord.gg/G9GPg5SA75" target="_blank" rel="noopener noreferrer">
+    <a href="https://discord.gg/dhF5fwuJ" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
   </p>
@@ -70,6 +70,16 @@ Olá! Sou o **Gabriel**, apaixonado por transformar café em código e ideias em
 <div align="center">
 <img src="https://raw.githubusercontent.com/gabrielhochmannalves/gabrielhochmannalves/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 ---
   
