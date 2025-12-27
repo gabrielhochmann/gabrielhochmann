@@ -17,14 +17,11 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/gabrielhochmann" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:contact@gabrielhochmann.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://instagram.com/gabrielhochmann" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   </p>
 </div>
 
@@ -38,7 +35,7 @@ Hoje aplico o que aprendo em contextos reais e sigo construindo minha base técn
 
 - 🎓 **Ciência da Computação** — **UNIOESTE**.
 - 💼 **Estágio em Desenvolvimento de Software** — **Itaipu Binacional**.
-- 🏆 **Hackatour Winner (2025)** Engenharia de Software, Cloud, Dados e Unity.
+- 🏆 **Hackatour Winner (2025)**
 - 🐧 **Linux user** (Arch/Fedora) – *I use Arch btw*.
 - ⚡ **Curiosidade atual:** sistemas, dados e desenvolvimento em Unity .
 
