@@ -2,13 +2,17 @@
   
   # Hi there, I'm Gabriel 👋🏻
 
-  <img src="assets/avatar.gif" width="200" style="border-radius: 50%; border: 4px solid #F4D03F; box-shadow: 0 0 20px #F4D03F;" alt="Gabriel Hochmann Avatar Animado" />
+  <img src="assets/avatar.gif" width="180" style="border-radius: 50%; border: 4px solid #F4D03F; box-shadow: 0 0 20px #F4D03F;" alt="Gabriel Hochmann Avatar Animado" />
   
   <br />
   <br />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F4D03F&center=true&vCenter=true&width=500&lines=Gabriel+Hochmann;CS+Student+@+UNIOESTE;Software+Dev+Intern+@+Itaipu;Linux+Enthusiast+%26+Game+Dev" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F4D03F&center=true&vCenter=true&width=500&lines=Gabriel+Hochmann;CS+Student+@+UNIOESTE;Software+Dev+Intern+@+Itaipu;Linux+Enthusiast+%26+Game+Dev">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E5C8A&center=true&vCenter=true&width=500&lines=Gabriel+Hochmann;CS+Student+@+UNIOESTE;Software+Dev+Intern+@+Itaipu;Linux+Enthusiast+%26+Game+Dev">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F4D03F&center=true&vCenter=true&width=500&lines=Gabriel+Hochmann;CS+Student+@+UNIOESTE;Software+Dev+Intern+@+Itaipu;Linux+Enthusiast+%26+Game+Dev" alt="Typing SVG" />
+    </picture>
   </a>
 
   <p align="center">
@@ -21,9 +25,6 @@
     <a href="https://instagram.com/gabrielhochmann" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://discord.gg/dhF5fwuJ" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
   </p>
 </div>
 
@@ -31,22 +32,43 @@
 
 ### 👨‍🚀 Sobre Mim
 
-Olá! Sou o **Gabriel**, apaixonado por transformar café em código e ideias em realidade. Atualmente estou mergulhado no mundo da **Ciência da Computação** e aplicando conhecimentos reais no setor de energia.
+Sou o **Gabriel**, estudante de Ciência da Computação, interessado em entender como sistemas funcionam de verdade, não só em fazer código rodar.
 
-- 🎓 **Estudante:** Ciência da Computação na **UNIOESTE**.
-- 💼 **Trabalho:** Estagiário de Desenvolvimento de Software na **Itaipu Binacional**.
-- 🔭 **Foco Atual:** Engenharia de Software, Cloud, Dados e Unity.
-- 🐧 **OS:** Usuário de Linux (Arch/Fedora) – *I use Arch btw*.
-- ⚡ **Curiosidade:** Desenvolvendo tours virtuais e explorando arquitetura de software.
+Hoje aplico o que aprendo em contextos reais e sigo construindo minha base técnica com calma, curiosidade e consistência.
 
+- 🎓 **Ciência da Computação** — **UNIOESTE**.
+- 💼 **Estágio em Desenvolvimento de Software** — **Itaipu Binacional**.
+- 🏆 **Hackatour Winner (2025)** Engenharia de Software, Cloud, Dados e Unity.
+- 🐧 **Linux user** (Arch/Fedora) – *I use Arch btw*.
+- ⚡ **Curiosidade atual:** sistemas, dados e desenvolvimento em Unity .
+
+---
 <br />
 
-### 🚀 Tech Stack
+### 🛠️ Ferramentas & Estudos
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,python,unity,linux,docker,git,postgres,mysql,blender&theme=dark" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cunity%2Cpython%2Cc&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cs%2Cunity%2Cpython%2Cc&theme=light">
+    <img src="https://skillicons.dev/icons?i=cs,unity,python,c&theme=dark" />
+  </picture>
+  
+  <br/><br/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cmysql%2Cpostgres&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cmysql%2Cpostgres&theme=light">
+    <img src="https://skillicons.dev/icons?i=java,mysql,postgres&theme=dark" />
+  </picture>
+  
+  <br/><br/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cgit&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux%2Cgit&theme=light">
+    <img src="https://skillicons.dev/icons?i=linux,git&theme=dark" />
+  </picture>
 </div>
 
 <br />
@@ -54,15 +76,20 @@ Olá! Sou o **Gabriel**, apaixonado por transformar café em código e ideias em
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gabrielhochmannalves" target="_blank" rel="noopener noreferrer">
-    <img height="180em"
-      src="https://github-readme-stats-gabrielhochmann.vercel.app/api?username=gabrielhochmannalves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/gabrielhochmannalves" target="_blank" rel="noopener noreferrer">
-    <img height="180em"
-      src="https://github-readme-stats-gabrielhochmann.vercel.app/api/top-langs/?username=gabrielhochmannalves&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/gabrielhochmannalves">
+          <img src="https://github-readme-stats-gabrielhochmann.vercel.app/api?username=gabrielhochmannalves&show_icons=true&count_private=true&hide_border=true&hide=stars,issues,prs,contribs&hide_rank=true&bg_color=0d1117&title_color=F4D03F&icon_color=F4D03F&text_color=ffffff&card_width=380" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/gabrielhochmannalves">
+          <img src="https://github-readme-stats-gabrielhochmann.vercel.app/api/top-langs/?username=gabrielhochmannalves&layout=compact&hide_border=true&hide=html,css,mathematica,jupyter%20notebook&bg_color=0d1117&title_color=F4D03F&text_color=ffffff&card_width=380" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -76,8 +103,7 @@ Olá! Sou o **Gabriel**, apaixonado por transformar café em código e ideias em
 ---
   
 <div align="center">
-  <p><i>"Stay hungry, stay foolish."</i></p>
-  <p>Feito com 💙 por Gabriel Hochmann</p>
+  <p><i>"Trying to get a little better every day."</i></p>
   <img src="https://komarev.com/ghpvc/?username=gabrielhochmannalves&label=Profile%20Views&color=F4D03F&style=flat" alt="Profile Views" />
 </div>
 
