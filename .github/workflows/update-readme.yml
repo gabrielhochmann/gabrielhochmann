@@ -20,4 +20,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: gabrielhochmannalves
-          MAX LINES: 5
+          MAX_LINES: 5
