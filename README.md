@@ -76,13 +76,13 @@ Hoje aplico o que aprendo em contextos reais e sigo construindo minha base técn
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/gabrielhochmannalves">
-          <img src="https://github-readme-stats-gabrielhochmann.vercel.app/api?username=gabrielhochmannalves&show_icons=true&count_private=true&hide_border=true&hide=stars,issues,prs,contribs&hide_rank=true&bg_color=0d1117&title_color=F4D03F&icon_color=F4D03F&text_color=ffffff&card_width=380" />
+        <a href="https://github.com/gabrielhochmann">
+          <img src="https://github-readme-stats-gabrielhochmann.vercel.app/api?username=gabrielhochmann&show_icons=true&count_private=true&hide_border=true&hide=stars,issues,prs,contribs&hide_rank=true&bg_color=0d1117&title_color=F4D03F&icon_color=F4D03F&text_color=ffffff&card_width=380" />
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/gabrielhochmannalves">
-          <img src="https://github-readme-stats-gabrielhochmann.vercel.app/api/top-langs/?username=gabrielhochmannalves&layout=compact&hide_border=true&hide=html,css,mathematica,jupyter%20notebook&bg_color=0d1117&title_color=F4D03F&text_color=ffffff&card_width=380" />
+        <a href="https://github.com/gabrielhochmann">
+          <img src="https://github-readme-stats-gabrielhochmann.vercel.app/api/top-langs/?username=gabrielhochmann&layout=compact&hide_border=true&hide=html,css,mathematica,jupyter%20notebook&bg_color=0d1117&title_color=F4D03F&text_color=ffffff&card_width=380" />
         </a>
       </td>
     </tr>
@@ -91,9 +91,9 @@ Hoje aplico o que aprendo em contextos reais e sigo construindo minha base técn
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielhochmannalves/gabrielhochmannalves/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielhochmannalves/gabrielhochmannalves/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielhochmannalves/gabrielhochmannalves/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielhochmann/gabrielhochmann/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielhochmann/gabrielhochmann/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielhochmann/gabrielhochmann/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -101,7 +101,7 @@ Hoje aplico o que aprendo em contextos reais e sigo construindo minha base técn
   
 <div align="center">
   <p><i>"Trying to get a little better every day."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=gabrielhochmannalves&label=Profile%20Views&color=F4D03F&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gabrielhochmann&label=Profile%20Views&color=F4D03F&style=flat" alt="Profile Views" />
 </div>
 
 ---
