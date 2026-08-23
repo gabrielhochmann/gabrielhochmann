@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gabriel Hochmann&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Commits  (last year) : 39</desc>
+        <desc id="descId">Total Commits  (last year) : 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 239.18034169466864;
+        stroke-dashoffset: 240.23727575302914;
       }
     }
   
@@ -151,7 +151,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >39</text>
+      >29</text>
     </g>
   </g>
     </svg>
