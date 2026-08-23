@@ -73,20 +73,7 @@ Hoje aplico o que aprendo em contextos reais e sigo construindo minha base técn
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/gabrielhochmann">
-          <img src="https://github-readme-stats-gabrielhochmann.vercel.app/api?username=gabrielhochmann&show_icons=true&count_private=true&hide_border=true&hide=stars,issues,prs,contribs&hide_rank=true&bg_color=0d1117&title_color=F4D03F&icon_color=F4D03F&text_color=ffffff&card_width=380" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/gabrielhochmann">
-          <img src="https://github-readme-stats-gabrielhochmann.vercel.app/api/top-langs/?username=gabrielhochmann&layout=compact&hide_border=true&hide=html,css,mathematica,jupyter%20notebook&bg_color=0d1117&title_color=F4D03F&text_color=ffffff&card_width=380" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="profile/stats.svg" alt="GitHub statistics" />
 </div>
 
 <div align="center">
