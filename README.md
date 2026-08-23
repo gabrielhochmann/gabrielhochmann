@@ -73,7 +73,8 @@ I apply what I learn in real-world contexts while building my technical foundati
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="profile/stats.svg" alt="GitHub statistics" />
+  <img src="profile/stats.svg" alt="GitHub statistics" width="380" />
+  <img src="profile/top-langs.svg" alt="Most used languages" width="380" />
 </div>
 
 <div align="center">
