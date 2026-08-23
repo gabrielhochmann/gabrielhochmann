@@ -2,7 +2,7 @@
   
   # Hi there, I'm Gabriel 👋🏻
 
-  <img src="assets/avatar.gif" width="180" style="border-radius: 50%; border: 4px solid #F4D03F; box-shadow: 0 0 20px #F4D03F;" alt="Gabriel Hochmann Avatar Animado" />
+  <img src="assets/avatar.gif" width="180" style="border-radius: 50%; border: 4px solid #F4D03F; box-shadow: 0 0 20px #F4D03F;" alt="Gabriel Hochmann Animated Avatar" />
   
   <br />
   <br />
@@ -27,22 +27,22 @@
 
 ---
 
-### 👨‍🚀 Sobre Mim
+### 👨‍🚀 About Me
 
-Sou o **Gabriel**, estudante de Ciência da Computação, interessado em entender como sistemas funcionam de verdade, não só em fazer código rodar.
+I'm **Gabriel**, a Computer Science student interested in understanding how systems work beyond simply making code run.
 
-Hoje aplico o que aprendo em contextos reais e sigo construindo minha base técnica com calma, curiosidade e consistência.
+I apply what I learn in real-world contexts while building my technical foundation with patience, curiosity, and consistency.
 
-- 🎓 **Ciência da Computação** — **UNIOESTE**.
-- 💼 **Estágio em Desenvolvimento de Software** — **Itaipu Binacional**.
+- 🎓 **Computer Science** — **UNIOESTE**.
+- 💼 **Software Development Intern** — **Itaipu Binacional**.
 - 🏆 **Hackatour Winner (2025)**
 - 🐧 **Linux user** (Arch/Fedora) – *I use Arch btw*.
-- ⚡ **Curiosidade atual:** sistemas, dados e desenvolvimento em Unity .
+- ⚡ **Currently exploring:** systems, data, and Unity development.
 
 ---
 <br />
 
-### 🛠️ Ferramentas & Estudos
+### 🛠️ Tools & Learning
 
 <div align="center">
   <picture>
