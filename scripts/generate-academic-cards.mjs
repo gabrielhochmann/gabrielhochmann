@@ -73,8 +73,7 @@ const statsContent = stats.map(([label, value], index) => {
   const y = 88 + row * 54;
   return `<text x="${x}" y="${y}" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="600">${value}</text>
   <text x="${x}" y="${y + 20}" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">${label}</text>`;
-}).join('
-  ');
+}).join(String.fromCharCode(10) + '  ');
 
 const languageEntries = Object.entries(languages)
   .sort(([, left], [, right]) => right - left)
@@ -89,8 +88,7 @@ const languageContent = languageEntries.map(([language, bytes], index) => {
   <rect x="152" y="${y - 11}" width="160" height="8" rx="4" fill="#21262d"/>
   <rect x="152" y="${y - 11}" width="${width}" height="8" rx="4" fill="#f4d03f"/>
   <text x="328" y="${y}" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">${percentage.toFixed(1)}%</text>`;
-}).join('
-  ') || '<text x="24" y="82" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">No language data available</text>';
+}).join(String.fromCharCode(10) + '  ') || '<text x="24" y="82" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">No language data available</text>';
 
 await mkdir('profile', { recursive: true });
 await writeFile('profile/academic-stats.svg', cardShell('Academic Workspace', statsContent, 190));
