@@ -80,6 +80,15 @@ I also care about making higher education and technology feel more accessible to
   <img src="profile/top-langs.svg" alt="Repository language mix card" width="380" />
 </div>
 
+### Academic Workspace
+
+<div align="center">
+  <img src="profile/academic-stats.svg" alt="Academic workspace activity card" width="380" />
+  <img src="profile/academic-top-langs.svg" alt="Academic workspace language mix card" width="380" />
+</div>
+
+<p align="center"><sub>Aggregated metrics for private academic repositories. Repository names and source code remain private.</sub></p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielhochmann/gabrielhochmann/output/github-contribution-grid-snake-dark.svg">
