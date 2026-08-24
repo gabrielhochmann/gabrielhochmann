@@ -11,11 +11,10 @@ permissions:
 jobs:
   update-cards:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate activity card
+      - name: Generate personal activity card
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: stats
@@ -25,12 +24,32 @@ jobs:
           core_version: 2.1.5
           fail_on_error: true
 
-      - name: Generate repository language mix card
+      - name: Generate personal language mix card
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide_progress=true&hide=html,css,xml,jupyter%20notebook&role=OWNER&custom_title=Repository%20Language%20Mix&hide_border=true&bg_color=0d1117&title_color=F4D03F&text_color=ffffff&card_width=380
           path: profile/top-langs.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          core_version: 2.1.5
+          fail_on_error: true
+
+      - name: Generate academic workspace activity card
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: stats
+          options: username=gabrielhochmann-academic&show_icons=true&include_all_commits=true&hide=stars,issues,prs,contribs&hide_rank=true&custom_title=Academic%20Workspace&number_format=long&hide_border=true&bg_color=0d1117&title_color=F4D03F&icon_color=F4D03F&text_color=ffffff&card_width=380
+          path: profile/academic-stats.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          core_version: 2.1.5
+          fail_on_error: true
+
+      - name: Generate academic workspace language mix card
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: top-langs
+          options: username=gabrielhochmann-academic&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide_progress=true&hide=html,css,xml,jupyter%20notebook&custom_title=Academic%20Workspace%20Languages&hide_border=true&bg_color=0d1117&title_color=F4D03F&text_color=ffffff&card_width=380
+          path: profile/academic-top-langs.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           core_version: 2.1.5
           fail_on_error: true
