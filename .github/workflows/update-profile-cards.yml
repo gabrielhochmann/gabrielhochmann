@@ -2,7 +2,8 @@ name: Update profile cards
 
 on:
   schedule:
-    - cron: "17 06 * * 1"
+    # Atualiza os cards diariamente às 06:17 UTC (03:17 no horário de Brasília).
+    - cron: "17 06 * * *"
   workflow_dispatch:
 
 permissions:
