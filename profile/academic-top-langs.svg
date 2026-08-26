@@ -3,18 +3,26 @@
   <text x="24" y="38" fill="#f4d03f" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="600">Academic Workspace Languages</text>
   <text x="24" y="72" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">TypeScript</text>
   <rect x="152" y="61" width="160" height="8" rx="4" fill="#21262d"/>
-  <rect x="152" y="61" width="101" height="8" rx="4" fill="#f4d03f"/>
-  <text x="328" y="72" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">63.0%</text>
-  <text x="24" y="100" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">Java</text>
+  <rect x="152" y="61" width="77" height="8" rx="4" fill="#f4d03f"/>
+  <text x="328" y="72" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">47.9%</text>
+  <text x="24" y="100" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">C++</text>
   <rect x="152" y="89" width="160" height="8" rx="4" fill="#21262d"/>
-  <rect x="152" y="89" width="50" height="8" rx="4" fill="#f4d03f"/>
-  <text x="328" y="100" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">31.4%</text>
-  <text x="24" y="128" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">HTML</text>
+  <rect x="152" y="89" width="53" height="8" rx="4" fill="#f4d03f"/>
+  <text x="328" y="100" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">33.1%</text>
+  <text x="24" y="128" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">CSS</text>
   <rect x="152" y="117" width="160" height="8" rx="4" fill="#21262d"/>
-  <rect x="152" y="117" width="5" height="8" rx="4" fill="#f4d03f"/>
-  <text x="328" y="128" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">3.1%</text>
-  <text x="24" y="156" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">Dockerfile</text>
+  <rect x="152" y="117" width="13" height="8" rx="4" fill="#f4d03f"/>
+  <text x="328" y="128" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">8.3%</text>
+  <text x="24" y="156" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">Java</text>
   <rect x="152" y="145" width="160" height="8" rx="4" fill="#21262d"/>
-  <rect x="152" y="145" width="4" height="8" rx="4" fill="#f4d03f"/>
-  <text x="328" y="156" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">2.5%</text>
+  <rect x="152" y="145" width="13" height="8" rx="4" fill="#f4d03f"/>
+  <text x="328" y="156" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">8.2%</text>
+  <text x="24" y="184" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">HTML</text>
+  <rect x="152" y="173" width="160" height="8" rx="4" fill="#21262d"/>
+  <rect x="152" y="173" width="3" height="8" rx="4" fill="#f4d03f"/>
+  <text x="328" y="184" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">1.7%</text>
+  <text x="24" y="212" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">CMake</text>
+  <rect x="152" y="201" width="160" height="8" rx="4" fill="#21262d"/>
+  <rect x="152" y="201" width="3" height="8" rx="4" fill="#f4d03f"/>
+  <text x="328" y="212" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">0.7%</text>
 </svg>
