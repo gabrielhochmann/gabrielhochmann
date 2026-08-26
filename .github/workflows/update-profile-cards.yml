@@ -39,10 +39,16 @@ jobs:
         run: node scripts/generate-academic-cards.mjs
         env:
           PROFILE_STATS_TOKEN: ${{ secrets.ACADEMIC_STATS_TOKEN }}
+      - name: Bust README card cache
+        run: |
+          for card in stats top-langs academic-stats academic-top-langs; do
+            sed -i -E "s#profile/${card}\.svg\?v=[^\"]+#profile/${card}.svg?v=${GITHUB_RUN_ID}#g" README.md
+          done
+
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add README.md profile/*.svg
           git diff --staged --quiet || git commit -m "chore(profile): update cards"
           git push
