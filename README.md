@@ -76,15 +76,15 @@ I also care about making higher education and technology feel more accessible to
 ### GitHub Activity
 
 <div align="center">
-  <img src="profile/stats.svg?v=40211002264" alt="GitHub activity card" width="380" />
-  <img src="profile/top-langs.svg?v=40211002264" alt="Repository language mix card" width="380" />
+  <img src="profile/stats.svg?v=40232631527" alt="GitHub activity card" width="380" />
+  <img src="profile/top-langs.svg?v=40232631527" alt="Repository language mix card" width="380" />
 </div>
 
 ### Academic Workspace
 
 <div align="center">
-  <img src="profile/academic-stats.svg?v=40211002264" alt="Academic workspace activity card" width="380" />
-  <img src="profile/academic-top-langs.svg?v=40211002264" alt="Academic workspace language mix card" width="380" />
+  <img src="profile/academic-stats.svg?v=40232631527" alt="Academic workspace activity card" width="380" />
+  <img src="profile/academic-top-langs.svg?v=40232631527" alt="Academic workspace language mix card" width="380" />
 </div>
 
 <p align="center"><sub>Aggregated metrics for private academic repositories. Repository names and source code remain private.</sub></p>
